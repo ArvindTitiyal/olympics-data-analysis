@@ -19,7 +19,7 @@ Feature---------------------------------------Description
 
 Country_Name--------------------------- Name of the country
 
-#  Summer---------------------------------- No. of games played in Summer Olympics
+#Summer---------------------------------- No. of games played in Summer Olympics
 
 Gold_Summer---------------------------- No. of gold medals won in Summer Olympics
 
@@ -29,7 +29,7 @@ Bronze_Summer------------------------  No. of bronze medals won in Summer Olympi
 
 Total_Summer---------------------------- Total no. of all the medals won in Summer Olympics
 
-#  Winter	------------------------------------- No. of games played in Winter Olympics
+#Winter	------------------------------------- No. of games played in Winter Olympics
 
 Gold_Winter ------------------------------- No. of gold medals won in Winter Olympics
 
@@ -39,7 +39,7 @@ Bronze_Winter ---------------------------- No. of bronze medals won in Winter Ol
 
 Total_Winter ------------------------------ Total no. of all the medals won in Winter Olympics
 
-#  Games ------------------------------------ Total no. of games played in both Summer and Winter Olympics
+#Games ------------------------------------ Total no. of games played in both Summer and Winter Olympics
 
 Gold_Total ---------------------------------- Total no. of gold medals won in both Summer and Winter Olympics
 
@@ -48,6 +48,8 @@ Silver_Total --------------------------------- Total no. of silver medals won in
 Bronze_Total ------------------------------- Total no. of bronze medals won in both Summer and Winter Olympics
 
 Total -------------------------------------------- Total no. of all the medals won in both Summer and Winter Olympics
+
+
 
 
 
